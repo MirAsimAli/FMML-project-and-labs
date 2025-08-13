@@ -1,3 +1,5 @@
+![GitHub Repo stars](https://img.shields.io/github/stars/MirAsimAli/FMML-project-and-labs?style=social)
+
 # 📘 FMML: Projects & Lab Work  
 # 🧠 AIML Notebooks Collection  
 
