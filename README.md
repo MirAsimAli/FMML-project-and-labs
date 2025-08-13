@@ -1,36 +1,74 @@
+# 📘 FMML: Projects & Lab Work  
 # 🧠 AIML Notebooks Collection  
 
-A comprehensive set of **13 hands-on Jupyter notebooks** covering essential concepts, algorithms, and practical implementations in **Artificial Intelligence** and **Machine Learning**.  
-This collection is designed for **students, researchers, and practitioners** to quickly grasp both theoretical and applied aspects of AIML.
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg?logo=python)
+![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange.svg?logo=jupyter)
+![Machine Learning](https://img.shields.io/badge/Focus-Machine%20Learning-red)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+
+> A curated collection of **13 hands-on Jupyter notebooks** from my **Fundamentals of Machine Learning (FMML)** coursework and personal projects — blending theory, coding, and visualization for practical AI/ML mastery.
 
 ---
 
-## 📂 Contents  
+## 📂 Repository Overview  
 
-| Notebook | Topic | Key Highlights |
-|----------|-------|----------------|
-| `AIML_Module_5_Lab_2_Loss_Functions.ipynb` | Loss Functions | Explores MSE, MAE, Cross-Entropy, and custom loss functions with visualizations. |
-| `AIML_Probabilistic_ML_models.ipynb` | Probabilistic Models | Covers Naive Bayes, Bayesian Networks, Gaussian Mixtures, and uncertainty modeling. |
-| `AIML_Project_Module_5_Regression.ipynb` | Regression Project | End-to-end regression workflow, feature engineering, and evaluation metrics. |
-| `AIML_RNN_Training_.ipynb` | Recurrent Neural Networks | Training RNNs for sequential data, including LSTM & GRU implementations. |
-| `AIML_Tutorial_Training_a_Neural_Network.ipynb` | Neural Network Basics | Step-by-step training of a neural network from scratch using PyTorch. |
-| `AIML__Clustering.ipynb` | Clustering Techniques | K-Means, Hierarchical Clustering, DBSCAN, and evaluation metrics. |
-| `Colab_tutorial.ipynb` | Google Colab Guide | How to use Google Colab effectively for AIML projects. |
+| 📁 Module | 🔍 Topics Covered | 🖼️ Preview |
+|-----------|------------------|-----------|
+| **Module 4 – Perceptron & Gradient Descent** | Implementing perceptron from scratch, intro to gradient descent | ![Preview](images/module4.png) |
+| **Module 4 – Gradient Descent Variants** | Batch, Stochastic & Mini-batch Gradient Descent with convergence plots | ![Preview](images/gd_variants.png) |
+| **Module 5 – Loss Functions** | MSE, MAE, Cross-Entropy, and custom loss visualizations | ![Preview](images/loss_functions.png) |
+| **Module 5 – Regression Project** | Feature engineering, model training, error analysis | ![Preview](images/regression_project.png) |
+| **Probabilistic Models** | Naive Bayes, Bayesian Networks, Gaussian Mixtures | ![Preview](images/prob_models.png) |
+| **RNN Training** | LSTM & GRU sequence modeling, training curves | ![Preview](images/rnn.png) |
+| **Neural Network Tutorial** | Training NN from scratch in PyTorch | ![Preview](images/nn_training.png) |
+| **Clustering** | K-Means, Hierarchical Clustering, DBSCAN | ![Preview](images/clustering.png) |
+| **Colab Tutorial** | Efficient workflow setup in Google Colab | ![Preview](images/colab.png) |
 
----
-
-## 🚀 Features  
-
-- 📜 **Theory + Code**: Each notebook blends concise theory with live coding examples.  
-- 📊 **Data Visualizations**: Clear plots for better understanding of results.  
-- ⚙ **Practical Implementations**: Direct application to real datasets.  
-- 📈 **Scalable Experiments**: Easily modifiable code for experimentation.  
+*(Previews are representative — see each notebook for complete visuals.)*
 
 ---
 
-## 🛠 Getting Started  
+## 📊 Visual Highlights  
 
-### 1️⃣ Clone the Repository  
-```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+| Concept | Visualization Example |
+|---------|-----------------------|
+| Gradient Descent Optimization Path | ![Gradient Descent](images/gradient_descent.gif) |
+| Regression Fit | ![Regression](images/regression_fit.png) |
+| K-Means Clustering | ![Clustering](images/kmeans.png) |
+| Loss Landscape Visualization | ![Loss Landscape](images/loss_landscape.png) |
+
+---
+
+## 🛠 Tech Stack  
+
+- **Python** (Jupyter Notebooks)  
+- **NumPy**, **Pandas**, **Matplotlib**, **Seaborn**  
+- **scikit-learn**, **PyTorch**  
+- **OpenCV** (for image-based labs)
+
+---
+
+## 📖 Learning Journey  
+
+Through these notebooks, I:  
+- Built **machine learning algorithms from scratch** for deeper understanding.  
+- Applied **model evaluation techniques** & learned trade-offs in complexity, regularization, and hyperparameter tuning.  
+- Extensively **visualized data, decision boundaries, and model metrics** for clarity.  
+- Practiced **end-to-end workflows**: data preprocessing → modeling → evaluation → optimization.  
+
+---
+
+## 🚀 How to Use  
+
+1. **Clone the Repository**  
+   ```bash
+   git clone https://github.com/MirAsimAli/FMML-project-and-labs.git
+   cd FMML-project-and-labs
+2. **Install Dependencies**
+    ```bash
+   pip install -r requirements.txt
+3. **Run the notebook**
+   Open in Jupyter or Google Colab and run cells sequentially.
+
+
+   
