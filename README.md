@@ -10,7 +10,7 @@
 
 > A curated collection of **13 hands-on Jupyter notebooks** from my **Fundamentals of Machine Learning (FMML)** coursework and personal projects — blending theory, coding, and visualization for practical AI/ML mastery.
 
----
+----
 
 ## 📂 Repository Overview  
 
